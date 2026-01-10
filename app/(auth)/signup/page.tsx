@@ -94,9 +94,6 @@ export default function SignupPage() {
         <div className="bg-white/5 backdrop-blur-xl border border-orange-200 rounded-2xl shadow-2xl p-8">
           <div className="mb-6">
             <h2 className="text-3xl font-bold text-white">Create Account</h2>
-            <p className="mt-2 text-sm text-gray-300">
-              Join us and discover amazing events
-            </p>
           </div>
 
           {error && (
