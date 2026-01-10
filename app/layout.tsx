@@ -2,8 +2,8 @@ import "./globals.css";
 import { AuthProvider } from "@/app/lib/authContext"; 
 
 export const metaData = {
-  title: "",
-  description: ""
+  title: "Ticz",
+  description: "A robust ticket management app"
 }
 
 export default function RootLayout({
